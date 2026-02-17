@@ -109,99 +109,75 @@ Implemented using 7483 ripple carry adder. XOR gates control subtraction via car
 
 ---
 
-## 7.2 Input Probes
-
-![Input Probes](images/input_probes.png)
-
----
-
-## 7.3 Output Probes
-
-![Output Probes](images/output_probes.png)
-
----
-
-## 7.4 Adder / Subtractor
+## 7.2 Adder / Subtractor
 
 ![Adder Subtractor](images/adder_subtractor.png)
 
 ---
 
-## 7.5 Bitwise OR
+## 7.3 Bitwise OR
 
 ![Bitwise OR](images/bitwise_or.png)
 
 ---
 
-## 7.6 Bitwise AND
+## 7.4 Bitwise AND
 
 ![Bitwise AND](images/bitwise_and.png)
 
 ---
 
-## 7.7 Bitwise NOR
+## 7.5 Bitwise NOR
 
 ![Bitwise NOR](images/bitwise_nor.png)
 
 ---
 
-## 7.8 Multiplexer
+## 7.6 Multiplexer
 
 ![Multiplexer](images/multiplexer.png)
 
 ---
 
-## 7.9 1’s and 2’s Complement
+## 7.7 1’s and 2’s Complement
 
 ![Complement](images/complement.png)
 
 ---
 
-## 7.10 Increment Operation
+## 7.8 Increment Operation
 
 ![Increment](images/increment.png)
 
 ---
 
-## 7.11 Decrement Operation
+## 7.9 Decrement Operation
 
 ![Decrement](images/decrement.png)
 
 ---
 
-## 7.12 Comparator
+## 7.10 Comparator
 
 ![Comparator](images/comparator.png)
 
 ---
 
-## 7.13 Counter / Load A
+## 7.11 Counter / Load A
 
 ![Counter](images/counter_load.png)
 
 ---
 
-## 7.14 Output Selection using 4067 MUX
+## 7.12 Output Selection using 4067 MUX
 
 ![MUX Output](images/mux_output_selection.png)
 
 ---
 
-## 7.15 Operation Selection Table
-
-![Operation Table](images/operation_table.png)
-
----
-
-## 7.16 Final Circuit (Proteus Simulation)
+## 7.13 Final Circuit (Proteus Simulation)
 
 ![Proteus Circuit](images/final_proteus.png)
-
----
-
-## 7.17 Final Circuit (Hardware Implementation)
-
-![Hardware Circuit](images/final_hardware.png)
 
 ---
 
